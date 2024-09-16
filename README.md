@@ -23,7 +23,31 @@ Developer con 3 años de experiencia en el desarrollo de aplicaciones móviles, 
 
 # Algunos proyectos personales
 
-## RouteMapp
+## SlideVideoApp
+
+#### Description
+
+VerticalVideos is an app designed to visualize vertical videos locally. The app allows users to watch videos that are stored on the device and provides basic controls, such as play and pause, to easily manage the viewing experience.
+
+#### Features
+
+- Displays vertical videos stored locally on the device.
+- Simple controls for pausing and playing videos.
+- Smooth user interface optimized for mobile screens.
+
+#### Screenshots
+
+<p align="center">
+  <img src="assets/images/screenshot1.png" alt="Screenshot 1" width="30%" />
+  <img src="assets/images/screenshot2.png" alt="Screenshot 2" width="30%" />
+  <img src="assets/images/screenshot3.png" alt="Screenshot 3" width="30%" />
+</p>
+
+*From left to right: Home screen, Video player, and Settings screen.*
+
+[SlideVideoApp - GitHub Repository](https://github.com/JhonatanAlvarezDhoz/SlideVideoApp/tree/dev)
+
+
 
 
 
