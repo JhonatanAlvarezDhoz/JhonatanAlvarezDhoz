@@ -23,27 +23,28 @@ Developer con 3 años de experiencia en el desarrollo de aplicaciones móviles, 
 
 # Algunos proyectos personales
 
-## SlideVideoApp
+# VerticalVideos
 
-#### Description
+Un nuevo proyecto Flutter.
 
-VerticalVideos is an app designed to visualize vertical videos locally. The app allows users to watch videos that are stored on the device and provides basic controls, such as play and pause, to easily manage the viewing experience.
+#### Descripción
 
-#### Features
+VerticalVideos es una aplicación diseñada para visualizar videos verticales almacenados localmente. La app permite a los usuarios reproducir videos guardados en el dispositivo y ofrece controles básicos, como reproducir y pausar, para facilitar la experiencia de visualización.
 
-- Displays vertical videos stored locally on the device.
-- Simple controls for pausing and playing videos.
-- Smooth user interface optimized for mobile screens.
+#### Características
 
-#### Screenshots
+- Controles simples para pausar y reproducir videos.
+- Interfaz de usuario fluida, optimizada para pantallas móviles.
+
+#### Capturas de pantalla
 
 <p align="center">
-  <img src="assets/images/screenshot1.png" alt="Screenshot 1" width="30%" />
-  <img src="assets/images/screenshot2.png" alt="Screenshot 2" width="30%" />
-  <img src="assets/images/screenshot3.png" alt="Screenshot 3" width="30%" />
+  <img src="assets/images/screenshot1.png" alt="Captura de Pantalla 1" width="30%" />
+  <img src="assets/images/screenshot2.png" alt="Captura de Pantalla 2" width="30%" />
+  <img src="assets/images/screenshot3.png" alt="Captura de Pantalla 3" width="30%" />
 </p>
 
-*From left to right: Home screen, Video player, and Settings screen.*
+*De izquierda a derecha: Pantalla de inicio, reproductor de video, y pantalla de configuración.*
 
 [SlideVideoApp - GitHub Repository](https://github.com/JhonatanAlvarezDhoz/SlideVideoApp/tree/dev)
 
