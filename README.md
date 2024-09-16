@@ -44,7 +44,7 @@ VerticalVideos es una aplicación diseñada para visualizar videos verticales al
   <img src="assets/images/screenshot3.png" alt="Captura de Pantalla 3" width="30%" />
 </p>
 
-*De izquierda a derecha: Pantalla de inicio, reproductor de video, y pantalla de configuración.*
+*Pantalla de reproductor de video*
 
 [SlideVideoApp - GitHub Repository](https://github.com/JhonatanAlvarezDhoz/SlideVideoApp/tree/dev)
 
