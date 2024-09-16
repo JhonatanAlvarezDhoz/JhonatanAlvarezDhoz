@@ -23,13 +23,11 @@ Developer con 3 años de experiencia en el desarrollo de aplicaciones móviles, 
 
 # Algunos proyectos personales
 
-# VerticalVideos
-
-Un nuevo proyecto Flutter.
+# SlideVideoApp
 
 #### Descripción
 
-VerticalVideos es una aplicación diseñada para visualizar videos verticales almacenados localmente. La app permite a los usuarios reproducir videos guardados en el dispositivo y ofrece controles básicos, como reproducir y pausar, para facilitar la experiencia de visualización.
+SlideVideoApp es una aplicación diseñada para visualizar videos orientados verticalmente. La app permite  ofrece controles básicos, como reproducir y pausar, esta ofreceuna experiencia de visualización  inspirada en ticktok. Está destinada exclusivamente para la visualización de videos proporcionados en los assets en tiempo de ejecución.
 
 #### Características
 
