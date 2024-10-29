@@ -74,9 +74,9 @@ Base de datos en el dispositivo con iSAr: Gracias a iSAr, una base de datos no r
 #### Capturas de pantalla
 
 <p align="center">
-  <img src="assets/images/1.png" alt="Captura de Pantalla 1" width="30%" />
-  <img src="assets/images/2.png" alt="Captura de Pantalla 2" width="30%" />
-  <img src="assets/images/3.png" alt="Captura de Pantalla 3" width="30%" />
+  <img src="assets/images/1.jpg" alt="Captura de Pantalla 1" width="30%" />
+  <img src="assets/images/2.jpg" alt="Captura de Pantalla 2" width="30%" />
+  <img src="assets/images/3.jpg" alt="Captura de Pantalla 3" width="30%" />
 </p>
 
 *Pantalla de reproductor de video*
