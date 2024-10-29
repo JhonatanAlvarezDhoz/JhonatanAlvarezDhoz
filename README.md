@@ -23,32 +23,65 @@ Developer con 3 años de experiencia en el desarrollo de aplicaciones móviles, 
 
 # Algunos proyectos personales
 
-## SlideVideoApp
+# SlideVideoApp
 
-#### Description
+#### Descripción
 
-VerticalVideos is an app designed to visualize vertical videos locally. The app allows users to watch videos that are stored on the device and provides basic controls, such as play and pause, to easily manage the viewing experience.
+SlideVideoApp es una aplicación diseñada para visualizar videos orientados verticalmente. La app permite  ofrece controles básicos, como reproducir y pausar, esta ofreceuna experiencia de visualización  inspirada en ticktok. Está destinada exclusivamente para la visualización de videos proporcionados en los assets en tiempo de ejecución.
 
-#### Features
+#### Características
 
-- Displays vertical videos stored locally on the device.
-- Simple controls for pausing and playing videos.
-- Smooth user interface optimized for mobile screens.
+- Controles simples para pausar y reproducir videos.
+- Interfaz de usuario fluida, optimizada para pantallas móviles.
 
-#### Screenshots
+#### Capturas de pantalla
 
 <p align="center">
-  <img src="assets/images/screenshot1.png" alt="Screenshot 1" width="30%" />
-  <img src="assets/images/screenshot2.png" alt="Screenshot 2" width="30%" />
-  <img src="assets/images/screenshot3.png" alt="Screenshot 3" width="30%" />
+  <img src="assets/images/screenshot1.png" alt="Captura de Pantalla 1" width="30%" />
+  <img src="assets/images/screenshot2.png" alt="Captura de Pantalla 2" width="30%" />
+  <img src="assets/images/screenshot3.png" alt="Captura de Pantalla 3" width="30%" />
 </p>
 
-*From left to right: Home screen, Video player, and Settings screen.*
+*Pantalla de reproductor de video*
 
 [SlideVideoApp - GitHub Repository](https://github.com/JhonatanAlvarezDhoz/SlideVideoApp/tree/dev)
 
 
+# MoviesBook
 
+#### Descripción
+
+MoviesBook es la aplicación perfecta para los amantes del cine que buscan simplicidad y velocidad. Con MoviesBook, no necesitas registrarte ni iniciar sesión para acceder a un vasto catálogo de películas. Descubre qué películas están en cartelera, cuáles son las más populares y mejor calificadas, y guarda tus favoritas en un apartado especial para verlas en el futuro.
+
+MoviesBook es la app ideal para cinéfilos que valoran el acceso inmediato y sin complicaciones al mundo del cine. ¡Descarga ahora y disfruta de tu próxima película en solo unos clics!
+
+
+#### Características
+
+- Sin registro ni inicio de sesión: Accede a toda la información de películas al instante, sin barreras.
+- Diversidad de categorías: Encuentra películas en cines, populares y las mejor calificadas, con actualizaciones constantes.
+- Favoritos sin conexión: Guarda tus películas favoritas en una lista especial y accede a ella en cualquier momento.
+
+#### Implementación
+
+API Rest de TheMovieDB: La app aprovecha los datos detallados y actualizados de TheMovieDB, ofreciendo información completa de cada película.
+Gestión de estado con Riverpod: MoviesBook utiliza Riverpod para una experiencia fluida y rápida en la navegación, incluso con múltiples categorías.
+Base de datos en el dispositivo con iSAr: Gracias a iSAr, una base de datos no relacional, tus favoritos se guardan de forma segura en tu dispositivo, garantizando una experiencia sin interrupciones incluso sin conexión.
+
+
+
+
+#### Capturas de pantalla
+
+<p align="center">
+  <img src="assets/images/1.png" alt="Captura de Pantalla 1" width="30%" />
+  <img src="assets/images/2.png" alt="Captura de Pantalla 2" width="30%" />
+  <img src="assets/images/3.png" alt="Captura de Pantalla 3" width="30%" />
+</p>
+
+*Pantalla de reproductor de video*
+
+[SlideVideoApp - GitHub Repository](https://github.com/JhonatanAlvarezDhoz/TredingMovieApp/tree/dev)
 
 
 
