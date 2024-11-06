@@ -89,7 +89,7 @@ Base de datos en el dispositivo con iSAr: Gracias a iSAr, una base de datos no r
 
 *Inicio, Buscar, Detalles, Favorito*
 
-[SlideVideoApp - GitHub Repository](https://github.com/JhonatanAlvarezDhoz/TredingMovieApp/tree/dev)
+[MoviesBook - GitHub Repository](https://github.com/JhonatanAlvarezDhoz/TredingMovieApp/tree/dev)
 
 
 
