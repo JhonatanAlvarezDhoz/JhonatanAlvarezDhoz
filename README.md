@@ -6,7 +6,7 @@
 
 Soy ingeniero de software profesional desde 2023.
 
-Developer con 3 años de experiencia en el desarrollo de aplicaciones móviles, despliegue en plataformas de distribución de aplicaciones y conocimientos en arquitectura de software, particularmente en Clean Architecture. Líder técnico para equipos de desarrollo, destacado por habilidades en revisión de código (CodeReview) y aseguramiento de la calidad y la adherencia a las mejores prácticas en el desarrollo.
+Ingeniero de Software con mas de 3 años de experiencia en el desarrollo de aplicaciones móviles usando Flutter, amplio conocimiento en gestores de estado como BloC, Provider y riverpod, manejo de base de datos en dispositivo relacionales (SQlite) y no relacionales(Isar), experiencia en integraciones con funcionalidades nativas Android e Ios, despliegue en plataformas de distribución de aplicaciones como PlayStore y AppStore(abiertas, cerradas, beta, producción) y conocimientos en arquitectura de software, particularmente en Clean Architecture. Líder técnico para equipos de desarrollo, destacado por habilidades en revisión de código (CodeReview) y aseguramiento la calidad y la adherencia a las mejores prácticas en el desarrollo y conocimientos en adroid nativo con el lenguaje de Kotlin.
 
 
 ## Tecnologías y Principios
